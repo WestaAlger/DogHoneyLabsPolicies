@@ -1,3 +1,6 @@
+**Support Contact**
+For support regarding this app, please contact us at jhp.main@gmail.com.
+
 **Privacy Policy**
 
 This privacy policy applies to the Hint and Miss app for mobile devices, together with any related services operated by Jonathan Park (collectively, the "Application"). Jonathan Park is hereby referred to as the "Service Provider".
