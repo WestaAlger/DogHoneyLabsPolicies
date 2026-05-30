@@ -1,4 +1,5 @@
 **Support Contact**
+
 For support regarding this app, please contact us at jhp.main@gmail.com.
 
 **Privacy Policy**
